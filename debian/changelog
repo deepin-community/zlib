@@ -1,3 +1,9 @@
+zlib (1:1.3.dfsg+really1.3.2-1deepin2) unstable; urgency=medium
+
+  * Add ints.h to minizip Makefile.am include_HEADERS.
+
+ -- lichenggang <lichenggang@uniontech.com>  Thu, 23 Apr 2026 16:45:32 +0800
+
 zlib (1:1.3.dfsg+really1.3.2-1deepin1) unstable; urgency=medium
 
   * Revert 64-bit time_t changes.
