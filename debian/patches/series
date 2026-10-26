@@ -1,1 +1,2 @@
 add-ints.h-to-minizip-makefile-am.patch
+CVE-2026-85091.patch
